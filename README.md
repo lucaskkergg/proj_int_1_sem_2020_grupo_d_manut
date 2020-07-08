@@ -4,13 +4,22 @@
 
 Projeto integrador de cunho tecnologio e desenvolvimental, o qual a atividade proposta foi desenvolver o "escopo" de uma ferramenta utilizada para a manutenção de uma aeronave.
 
+## - Descrição das pastas:
+* ATAS: Contém as ATAS desenvolvidas durante o projeto;
+* Apresentações: Contém as apresentações desenvolvidas pelo grupo;
+* CAD: Contém os projetos 3D da peça;
+* Calculos: Contém os calculos aplicados e utilizados no projeto;
+* Documentos: Documentações importantes ao projeto;
+* Git_img: Pastá com arquivos para o "README";
+* Imagens: Contém imagens referentes ao projeto.
+
 ## - Integrantes
-* Christian Arilio Bezerra de Queiroz
-* Karen Roithmeier Rodrigues
-* Lucas Sergio de Oliveira
-* Marcio Siqueira Pereira
-* Mayara Carolina Ferreira de Lima
-* Paulo Henrique Conceição Dias
+* Christian Arilio Bezerra de Queiroz;
+* Karen Roithmeier Rodrigues;
+* Lucas Sergio de Oliveira;
+* Marcio Siqueira Pereira;
+* Mayara Carolina Ferreira de Lima;
+* Paulo Henrique Conceição Dias.
 
 ## - Objetivo
 
