@@ -12,7 +12,8 @@ Projeto integrador de cunho tecnologio e desenvolvimental, o qual a atividade pr
 * __Documentos:__ Documentações importantes ao projeto;
 * __Git_img:__ Pastá com arquivos para o "README";
 * __Imagens:__ Contém imagens referentes ao projeto;
-*__Grupo-Delta-Projeto-Integrador:__ Contém os arquivos solicitados pelo professor para avaliação do Pi.
+* __Grupo-Delta-Projeto-Integrador:__ Contém os arquivos solicitados pelo professor para avaliação do Pi.
+
 
 ## - Integrantes
 * Christian Arilio Bezerra de Queiroz;
