@@ -2,7 +2,7 @@
 
 # Projeto Integrador - Fatec São José dos Campos - Brasil
 
-Projeto integrador de cunho tecnologio e desenvolvimental, o qual a atividade proposta foi desenvolver o "escopo" de uma ferramenta utilizada para a manutenção de uma aeronave.
+Projeto integrador de cunho tecnológico e desenvolvimental, o qual a atividade proposta foi desenvolver o "escopo" de uma ferramenta utilizada para a manutenção de uma aeronave.
 
 ## - Descrição das pastas:
 * __ATAS:__ Contém as ATAS desenvolvidas durante o projeto;
